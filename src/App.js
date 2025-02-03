@@ -33,7 +33,7 @@ const App = () => {
           <div className="flex items-center justify-center space-x-2">
             <Mail className="w-5 h-5 text-blue-400" />
             <a href="mailto:admin@tarabtech.com" className="text-gray-300 hover:text-blue-400 transition-colors">
-              contact@tarabtech.com
+              admin@tarabtech.com
             </a>
           </div>
 
